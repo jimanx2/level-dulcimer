@@ -1,6 +1,6 @@
 var LevelBucket = require('level-bucket');
 var Level2i = require('level-2i');
-var levelout = require('levelout');
+var levelup = require('levelup');
 var LevelIncrement = require('level-increment');
 var LevelBucketArray = require('level-bucketarray');
 var LevelForeignKeys = require('level-foreignkeys');
